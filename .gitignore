@@ -1,0 +1,11 @@
+# Python virtual environment
+myvenv/
+
+# Compiled Python files
+*.pyc
+
+# Ignore environment configuration (if any)
+.env
+
+# Ignore Streamlit cache and state directories (if any)
+.streamlit/
